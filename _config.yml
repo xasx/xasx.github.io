@@ -40,12 +40,21 @@ projects:
   # vk: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/java/java.png
 
-  - name: Web design
+  - name: Software design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/csharp/csharp.png
+    
+social_media:
+  facebook: AndySchoe
+  linkedin: andreas-schöneck-2a0b833a
+  medium: @your_username
+  stackoverflow: 371169
+  telegram: andyschoe
+  twitter: quoquam
+  youtube: as.maps@gmail.com
